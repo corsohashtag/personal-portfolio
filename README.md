@@ -1,6 +1,6 @@
 # Reading Portfolio
 
-## Raccolta di letture interessanti
+## Raccolta di letture su alcune discipline scolastiche
 
 ![Libri](books.png)
 
