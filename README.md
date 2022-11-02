@@ -1,4 +1,4 @@
-# Reading Portfolio
+# Portfolio personale
 
 ## Raccolta di letture su alcune discipline scolastiche
 
@@ -10,4 +10,4 @@
 4. Filosofia
 
 ---
-Giugno 2023
+Immagine Pixabay <https://pixabay.com/>
