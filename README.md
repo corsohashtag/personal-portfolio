@@ -10,4 +10,4 @@
 4. Filosofia
 
 ---
-Licenza immagini CC0
+Giugno 2023
